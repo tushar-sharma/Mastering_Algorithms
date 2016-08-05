@@ -1,2 +1,2 @@
 # Mastering_Algorithms
-Mastering Algorithms in Perl 
+Solutions of Mastering Algorithms in Perl 
